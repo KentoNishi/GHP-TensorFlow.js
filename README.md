@@ -7,11 +7,7 @@ Clone the repository to your local machine.
 ```
 git clone https://github.com/KentoNishi/Simple-TensorFlow.js-Project
 ```
-In the parent directory of the repository, create a file named ``Gemfile`` and insert the following lines:
-```
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-```
+The appropriate Gemfile has already been initialized, so no extra setup is needed.
 
 ## Execution
 Run the following command in the root directory of the repository:
