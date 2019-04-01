@@ -1,4 +1,4 @@
-# Simple TensorFlow.js Project
+# Simple GitHub Pages TensorFlow.js Project
 
 A simple client based TensorFlow project in JavaScript by Kento Nishi, powered by Jekyll and GitHub pages.
 
@@ -6,6 +6,11 @@ A simple client based TensorFlow project in JavaScript by Kento Nishi, powered b
 Clone the repository to your local machine.
 ```
 git clone https://github.com/KentoNishi/Simple-TensorFlow.js-Project
+```
+In the parent directory of the repository, create a file named ``Gemfile`` and insert the following lines:
+```
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
 ```
 
 ## Execution
