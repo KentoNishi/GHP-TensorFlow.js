@@ -1,6 +1,6 @@
 # Simple GitHub Pages TensorFlow.js Project
 
-A simple client based TensorFlow project in JavaScript by Kento Nishi, powered by Jekyll and GitHub pages.
+A simple client based TensorFlow project in JavaScript, powered by Jekyll and GitHub pages.
 
 ## Installation
 Clone the repository to your local machine.
